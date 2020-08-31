@@ -2,3 +2,5 @@ Anomaly Detection using clustering and classification algorithms.
 
 Clustering Algorithms: K-Means, AGNES, DBSCAN, PAM, HAP
 Classification Algorithms: Decision Tree, Random Forest, SVM
+
+Metrics used: Precision, Sensitivity, Recall, False Positive Rate
